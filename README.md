@@ -1,2 +1,2 @@
-# Hyderabad-Weather-Prediction
-# Hyderabad-Weather-Prediction
+# Weather-Prediction API
+# Weather-Prediction API
